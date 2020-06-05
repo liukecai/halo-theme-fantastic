@@ -34,7 +34,7 @@
         </div>
 
         <!-- partial -->
-        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
-        <script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+        <script src='//cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js'></script>
+        <script src='//lib.baomitu.com/Swiper/4.3.5/js/swiper.min.js'></script>
     </#if>
 </#macro>
